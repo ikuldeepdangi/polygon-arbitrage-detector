@@ -1,5 +1,13 @@
-# Ignore environment file with secrets
+/target
+
 .env
 
-# Ignore build artifacts
-/target
+arbitrage_log.db3
+
+Thumbs.db
+
+.DS_Store
+
+.vscode/
+
+.idea/
